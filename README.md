@@ -1,4 +1,11 @@
-## Hi there 👋
-I'm Sai, a Firmware Engineer with experience in embedded Linux and microcontroller-based systems.
-Focused on C programming, RTOS, device drivers, and system-level development.
-Building structured projects on embedded fundamentals, DSA in C, and low-level design. 
+## Hi, I'm Sai 👋
+
+Firmware Engineer with experience in embedded Linux and microcontroller-based systems.
+
+I focus on:
+- C programming
+- RTOS (FreeRTOS)
+- Linux system programming
+- Device drivers and communication protocols
+
+Currently building structured repositories to strengthen fundamentals in embedded systems and DSA in C.
